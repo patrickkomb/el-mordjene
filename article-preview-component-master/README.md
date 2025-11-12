@@ -1,3 +1,8 @@
+# Initialiser le projet
+
+`npm install tailwindcss @tailwindcss/cli`
+`npx @tailwindcss/cli -i ./input.css -o ./output.css --watch`
+
 # Frontend Mentor - Article preview component
 
 ![Design preview for the Article preview component coding challenge](./design/desktop-preview.jpg)
