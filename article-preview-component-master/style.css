@@ -1,9 +1,5 @@
 @import "./var.css";
 
-p {
-    font-size: 13px;
-}
-
 h1, h2, h3 {
     font-family: Manrope, sans-serif;
 }
@@ -14,8 +10,4 @@ h1 {
 
 h2 {
     font-weight: 500;
-}
-
-body {
-    background-color: var(--light-grayish-blue);
 }
